@@ -8,13 +8,13 @@
     {
         "id": "DisneyPlus",
         "logo": "",
-        "title": "Jogos de futebol - Apenas ao vivo",
+        "title": "DisneyPlus - Jogos de futebol - Apenas ao vivo",
         "description": "Programação oficial do Disney Plus, só funciona em horários de eventos ao vivo."
     },
     {
         "id": "SportyNet",
         "logo": "",
-        "title": "Jogos de futebol - Apenas ao vivo",
+        "title": "SportyNet - Jogos de futebol - Apenas ao vivo",
         "description": "Programação oficial do SportyNet, só funciona em horários de eventos ao vivo."
     },
     {
@@ -32,13 +32,13 @@
     {
         "id": "TVUniversal",
         "logo": "",
-        "title": "Cultos ao vivo e gravados",
+        "title": "TV Universal",
         "description": "Programação oficial da TV Universal, com cultos ao vivo e gravados."
     },
     {
         "id": "Radios",
         "logo": "",
-        "title": "Rádio ao vivo",
+        "title": "Radios - Rádio ao vivo",
         "description": "Programação oficial da rádio."
     },
     {
@@ -56,7 +56,7 @@
     {
         "id": "CazeTv",
         "logo": "",
-        "title": "Programação oficial da Caze TV, só funciona em horários de eventos ao vivo.",
+        "title": "Caze TV - Programação oficial da Caze TV, só funciona em horários de eventos ao vivo.",
         "description": "Programação oficial de acordo com o nome do canal."
     }
 ]

@@ -2,25 +2,61 @@
     {
         "id": "CanalDoCliente",
         "logo": "",
-        "title": "Canal do Cliente",
+        "title": "Novidades do nosso servidor",
         "description": "Fique por dentro de tudo que acontece no Canal do Cliente, com notícias, dicas e muito mais."
     },
     {
         "id": "DisneyPlus",
         "logo": "",
-        "title": "Disney Plus",
+        "title": "Jogos de futebol - Apenas ao vivo",
         "description": "Programação oficial do Disney Plus, só funciona em horários de eventos ao vivo."
     },
     {
         "id": "SportyNet",
         "logo": "",
-        "title": "SportyNet",
+        "title": "Jogos de futebol - Apenas ao vivo",
         "description": "Programação oficial do SportyNet, só funciona em horários de eventos ao vivo."
+    },
+    {
+        "id": "UFCFightPassReprises",
+        "logo": "",
+        "title": "UFC Fight Pass - Reprises",
+        "description": "Programação oficial UFC Fight Pass - Reprises."
+    },
+    {
+        "id": "UFCFightPass",
+        "logo": "",
+        "title": "UFC Fight Pass - Ao vivo",
+        "description": "Programação oficial UFC Fight Pass, só funciona em eventos ao vivo."
     },
     {
         "id": "TVUniversal",
         "logo": "",
-        "title": "TV Universal",
+        "title": "Cultos ao vivo e gravados",
         "description": "Programação oficial da TV Universal, com cultos ao vivo e gravados."
+    },
+    {
+        "id": "Radios",
+        "logo": "",
+        "title": "Rádio ao vivo",
+        "description": "Programação oficial da rádio."
+    },
+    {
+        "id": "Max",
+        "logo": "",
+        "title": "Max - Só funciona em horários de eventos ao vivo",
+        "description": "Programação oficial da Max."
+    },
+    {
+        "id": "24Horas",
+        "logo": "",
+        "title": "24 horas de programação para você no Atlas",
+        "description": "Programação oficial de acordo com o nome do canal."
+    },
+    {
+        "id": "CazeTv",
+        "logo": "",
+        "title": "Programação oficial da Caze TV, só funciona em horários de eventos ao vivo.",
+        "description": "Programação oficial de acordo com o nome do canal."
     }
 ]

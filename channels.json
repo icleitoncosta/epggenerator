@@ -1,0 +1,26 @@
+[
+    {
+        "id": "CanalDoCliente",
+        "logo": "",
+        "title": "Canal do Cliente",
+        "description": "Fique por dentro de tudo que acontece no Canal do Cliente, com notícias, dicas e muito mais."
+    },
+    {
+        "id": "DisneyPlus",
+        "logo": "",
+        "title": "Disney Plus",
+        "description": "Programação oficial do Disney Plus, só funciona em horários de eventos ao vivo."
+    },
+    {
+        "id": "SportyNet",
+        "logo": "",
+        "title": "SportyNet",
+        "description": "Programação oficial do SportyNet, só funciona em horários de eventos ao vivo."
+    },
+    {
+        "id": "TVUniversal",
+        "logo": "",
+        "title": "TV Universal",
+        "description": "Programação oficial da TV Universal, com cultos ao vivo e gravados."
+    }
+]
